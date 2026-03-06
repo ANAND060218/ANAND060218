@@ -1,122 +1,180 @@
-<h1 align="center">Hi 👋, I'm Anand V</h1>
-<h3 align="center">Software Developer | AI Engineer | Competitive Programmer</h3>
+<!-- AI Developer Banner -->
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat"/>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Anand%20V&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<!-- Typing animation -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Engineer;Competitive+Programmer;Zoho+Developer+Intern;800%2B+LeetCode+Problems+Solved"/>
 </p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech Computer Science & Business Systems — Chennai Institute of Technology  
-💻 Software Developer Intern at **Zoho (Cliq Team)**  
-🤖 AI + Full Stack Developer  
-📚 800+ LeetCode Problems Solved  
-⚡ Building scalable systems, AI apps, and developer tools  
+🎓 B.Tech Computer Science & Business Systems  
+📍 Chennai Institute of Technology  
 
----
+💻 Software Developer Intern — **Zoho Cliq Team**
 
-# 🏆 Achievements
+⚡ AI + Full Stack Developer  
 
-🏅 LeetCode Knight (Top competitive programmer)  
-⭐ CodeChef 2-Star  
-🚀 Codeforces Pupil  
+🔥 Competitive Programmer  
 
-🏆 CliqTrix 2026 — Finalist  
-🏆 HackOnAmazon 2024 — Semifinalist  
-🏆 FOSSHACK'25 — Finalist  
+✔ 800+ LeetCode Problems  
+✔ CodeChef 2★  
+✔ Codeforces Pupil  
 
 ---
 
-# 💻 Tech Stack
+# 🧠 Tech Stack
 
 ### Languages
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
 ### Backend
+
 Node.js • Express • Django • Flask • Spring Boot
 
 ### Frontend
-React • Next.js • HTML • CSS • Flutter • React Native
 
-### AI / ML
-LangChain • HuggingFace • Ollama • LangGraph
+React • Next.js • Flutter • React Native
+
+### AI / LLM
+
+LangChain • LangGraph • HuggingFace • Ollama
 
 ### Databases
-MongoDB • MySQL • ChromaDB • FAISS
 
-### Cloud
-AWS • Azure • Firebase • Supabase
+MongoDB • MySQL • FAISS • ChromaDB
 
-### DevOps
-Docker • Git • GitHub • Linux • Postman
+### DevOps & Tools
+
+Docker • Git • Linux • Postman • VS Code
+
+---
+
+# 🏆 Achievements
+
+🏅 LeetCode Knight  
+
+⭐ CodeChef 2 Star  
+
+🚀 Codeforces Pupil  
+
+🏆 CliqTrix 2026 — Finalist  
+
+🏆 HackOnAmazon 2024 — Semi Finalist  
+
+🏆 FOSSHACK 2025 — Finalist  
 
 ---
 
 # 📊 GitHub Stats
 
-![Anand GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-# 🧠 Competitive Programming
+# 📈 GitHub Activity Graph
 
-🔥 **LeetCode:** 800+ Problems  
-🏅 Max Rating: 1789  
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+</p>
 
-⭐ **CodeChef:** 2 Star  
-📊 Rating: 1478  
+---
 
-🚀 **Codeforces:** Pupil  
-📈 Rating: 1242  
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🏆 Competitive Programming
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=contest"/>
+</p>
+
+🔥 **LeetCode**
+
+• 800+ Problems Solved  
+• Max Rating: 1789  
+
+⭐ **CodeChef**
+
+• 2 Star  
+• Rating: 1478  
+
+🚀 **Codeforces**
+
+• Pupil  
+• Rating: 1242  
 
 ---
 
 # 🚀 Featured Projects
 
-### 🧑‍💻 Job Aggregator Platform
-AI powered job search platform scraping **25+ MNC career sites**
+## Job Aggregator Platform
 
-Tech:
+AI powered job search system scraping **25+ MNC career websites**.
+
+Tech Stack  
 React • Node.js • MongoDB • Gemini AI • JWT
 
 Features
-✔ ATS resume match scoring  
-✔ Bookmarking jobs  
+
+✔ AI ATS resume match scoring  
+✔ Job bookmarking  
 ✔ Analytics dashboard  
+✔ Unified job search
 
 ---
 
-### 🤖 NORA — Offline RAG Application
+## NORA — Offline RAG System
 
-Offline AI assistant for searching local documents.
+Offline AI system that searches local documents.
 
-Tech:
-Electron • FastAPI • ChromaDB • PyTorch
+Tech
+
+Electron • FastAPI • PyTorch • ChromaDB
 
 Features
+
 ✔ Semantic search  
 ✔ OCR pipeline  
-✔ Multimodal search (voice + image)
+✔ Multimodal search  
+✔ Fully offline AI
 
 ---
 
-### ✍ AI Blog Automation Tool
+## AI Blog Automation Tool
 
-Automated SEO blog generator using **Gemini API**
+Automated SEO blog generator.
+
+Tech
+
+Python • Gemini API • Flask
 
 Features
-✔ Auto article generation  
+
+✔ AI content generation  
 ✔ SEO keyword optimization  
 ✔ WordPress auto publishing
 
@@ -125,46 +183,76 @@ Features
 # 💼 Experience
 
 ## Zoho Corporation — Software Developer Intern
-Feb 2026 – Mar 2026
 
-• Built a **Zoho Cliq extension integrating Mural whiteboard**  
-• Implemented **OAuth2 + REST APIs + Webhooks**  
-• Built **Spring Boot backend hosted on Zoho Catalyst**
+Worked on **Zoho Cliq Team**
+
+✔ Built Zoho Cliq extension integrating Mural whiteboard  
+
+✔ Implemented OAuth2 authentication  
+
+✔ Developed Spring Boot backend hosted on Zoho Catalyst  
+
+✔ Designed event driven architecture
 
 ---
 
 ## Agentic AI Hybrid — Software Development Intern
 
-• Built **agentic AI workflows**  
-• Designed scalable AWS deployment pipelines  
-• Reduced manual effort by **30%**
+✔ Built AI automation workflows  
 
----
+✔ Designed scalable AWS deployments  
 
-# 📜 Certifications
-
-✔ AWS Certified Cloud Practitioner  
-✔ Salesforce Agentforce Specialist  
-✔ CCNA Introduction to Networks  
-✔ NPTEL — Cloud Computing  
-✔ NPTEL — DBMS  
-✔ NPTEL — Ethical Hacking  
+✔ Reduced manual work by **30%**
 
 ---
 
 # 📄 Research
 
 📑 IEEE Conference Publication  
-Ransomware Detection using ML models (XGBoost, Random Forest, Neural Networks)
+
+Ransomware Detection using
+
+• XGBoost  
+• Random Forest  
+• Neural Networks  
+
+---
+
+# 📜 Certifications
+
+✔ AWS Certified Cloud Practitioner  
+
+✔ Salesforce Agentforce Specialist  
+
+✔ CCNA — Introduction to Networks  
+
+✔ NPTEL — Cloud Computing  
+
+✔ NPTEL — DBMS  
+
+✔ NPTEL — Ethical Hacking  
 
 ---
 
 # 🌐 Connect With Me
 
-LinkedIn: https://linkedin.com/in/YOUR_LINK  
-GitHub: https://github.com/YOUR_USERNAME  
-Email: anandv.csbs2023@citchennai.net
+GitHub  
+https://github.com/YOUR_GITHUB_USERNAME
+
+LinkedIn  
+YOUR_LINKEDIN_URL
+
+Email  
+anandv.csbs2023@citchennai.net
 
 ---
 
-⭐ From [Anand V](https://github.com/YOUR_USERNAME)
+# 👀 Profile Visitors
+
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+
+---
+
+<p align="center">
+⭐ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Anand V</a>
+</p>
