@@ -109,7 +109,7 @@ Docker • Git • Linux • Postman • VS Code
 # 🏆 Competitive Programming
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/anandv05?theme=dark&font=Baloo&ext=contest"/>
 </p>
 
 🔥 **LeetCode**
@@ -237,10 +237,10 @@ Ransomware Detection using
 # 🌐 Connect With Me
 
 GitHub  
-https://github.com/YOUR_GITHUB_USERNAME
+https://github.com/ANAND060218
 
 LinkedIn  
-YOUR_LINKEDIN_URL
+[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/anand-v-366230290/)
 
 Email  
 anandv.csbs2023@citchennai.net
@@ -249,10 +249,10 @@ anandv.csbs2023@citchennai.net
 
 # 👀 Profile Visitors
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=ANAND060218&color=blue)
 
 ---
 
 <p align="center">
-⭐ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Anand V</a>
+⭐ From <a href="https://github.com/ANAND060218">Anand V</a>
 </p>
