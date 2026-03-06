@@ -21,3 +21,33 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+4. Click **"Commit changes"**
+
+---
+
+### Step 3 — Enable write permissions ❗ (most missed step)
+1. In your repo → click **Settings**
+2. Left sidebar → **Actions** → **General**
+3. Scroll down to **"Workflow permissions"**
+4. Select **"Read and write permissions"**
+5. Click **Save**
+
+---
+
+### Step 4 — Run it manually NOW
+1. Click the **Actions** tab in your repo
+2. You'll see **"Generate Snake"** on the left — click it
+3. Click the **"Run workflow"** dropdown button on the right
+4. Click the green **"Run workflow"** button
+5. Wait about **60 seconds** ⏳
+
+---
+
+### Step 5 — Verify it worked
+Go to: `https://github.com/ANAND060218/ANAND060218/tree/output`
+
+You should see these two files:
+```
+github-contribution-grid-snake.svg
+github-contribution-grid-snake-dark.svg
